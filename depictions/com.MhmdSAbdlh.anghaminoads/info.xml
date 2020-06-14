@@ -1,0 +1,45 @@
+<package>
+	<id>com.MhmdSAbdlh.anghaminoads</id>
+	<name>Anghami No Ads</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package> preferenceloader</package>
+	</dependencies>
+	<shortDescription>Disable ADS in Anghami app.</shortDescription>
+	<descriptionlist>
+		<description>Disable Ads between songs and popup ads in Anghami app.</description>
+		<description>It works with all Anghami version.</description>
+		<description>Untested in firmware lower than 7.0>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is Anghami App.</description>
+			<image>Anghami1.jpg</image>
+			<image>Anghami2.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Add Preference Panel.</change>
+		<change>Add Icon For Preference Panel.</change>
+		<change>Bugs Fix..</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>
