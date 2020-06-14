@@ -6,17 +6,17 @@
             <iconclass>fa fa-twitter</iconclass>
         </link>
         <link>
-            <name>Facebook</name>
+            <name>View My Facebook Profile</name>
             <url>https://www.facebook.com/MhmdSAbdlh</url>
             <iconclass>fa fa-facebook</iconclass>
         </link>
         <link>
-            <name>Reddit</name>
+            <name>Check My Reddit Account</name>
             <url>https://www.reddit.com/user/hamadakakos</url>
             <iconclass>fa fa-reddit</iconclass>
         </link>
         <link>
-            <name>GitHub</name>
+            <name>look At My GitHub Repo</name>
             <url>https://github.com/MhmdSAbdlh</url>
             <iconclass>fa fa-github</iconclass>
         </link>
