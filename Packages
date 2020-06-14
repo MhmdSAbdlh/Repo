@@ -12,16 +12,10 @@ SHA256: 548e31cb603e6be258c13e42378126bfcfdfa4057ded3ebb739b4933a7670009
 SHA512: 8a438c3d595fe280e88545986165a77426f33833b5e52a04a5a9def29b1821dd4f68644861046665279f9ec9bec9befcfa49fe8bb5c60a81f056b866b6d692d0
 Description: ADS Block
   Simply disable all ads in Anghami app, nothing more!
-
   Work with all Anghami versions up to the last one.
-
   It does not unlock premium features, only remove ads.
 Changelog: Depiction Redesign
   Added Setting Panel.
-
-  Add Icon.
-
-  Edit description.
 Name: AnghamiNoAds
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami2.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami1.jpg
@@ -31,4 +25,4 @@ Prefer-Native: Yes
 Icon: file:///Library/PreferenceLoader/Preferences/AnghamiNoAds@2x.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::7.0-13.5
-Installed-Size: 86.9
+Installed-Size: 86
