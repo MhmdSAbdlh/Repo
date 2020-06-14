@@ -2,20 +2,24 @@ Package: com.MhmdSAbdlh.anghaminoads
 Version: 1.3
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate , preferenceloader
+Depends: firmware (>=7.0), mobilesubstrate , preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.anghaminoads.deb
-Size: 9284
-MD5sum: a393dc083342bb6a01e959c6036ec488
-SHA1:97885b999f1bb03cf379566e9cc4b3a5d12715c0
-SHA256: 6098909cdb168cd98aae03be10ada795506ebc1fb9f8ea41fb70690b3f8ea0d2
-SHA512: dac5323ac3a5e5391ab274640ad069a05fe2dcf144a014b42edd334a136aac229d5556595cebfbd0a3fe49d670c853da71b4a2b42c875d52326b9b2b27beec1a
-Description: Disable ADS in Anghami app.
+Size: 9220
+MD5sum: a15c2e1a2cd057daa315ab99423fdbd9
+SHA1:c0d1ec2789718033366a498e3f300608c7b6da85
+SHA256: 548e31cb603e6be258c13e42378126bfcfdfa4057ded3ebb739b4933a7670009
+SHA512: 8a438c3d595fe280e88545986165a77426f33833b5e52a04a5a9def29b1821dd4f68644861046665279f9ec9bec9befcfa49fe8bb5c60a81f056b866b6d692d0
+Description: ADS Block
   Simply disable all ads in Anghami app, nothing more!
+  Work with all Anghami versions up to the last one.
+  It does not unlock premium features, only remove ads.
 Changelog: Depiction Redesign
-  Added Setting Panel
+  Added Setting Panel.
+  Add Icon.
+  Edit description.
 Name: AnghamiNoAds
-Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami1.jpg,  https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami2.jpg
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami2.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami1.jpg
 Author: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.anghaminoads
@@ -23,3 +27,4 @@ Prefer-Native: Yes
 Icon: file:///Library/PreferenceLoader/Preferences/AnghamiNoAds@2x.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::7.0-13.5
+Installed-Size: 86900
