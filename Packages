@@ -7,9 +7,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.anghaminoads.deb
 Size: 9220
 MD5sum: a15c2e1a2cd057daa315ab99423fdbd9
-SHA1:c0d1ec2789718033366a498e3f300608c7b6da85
-SHA256: 548e31cb603e6be258c13e42378126bfcfdfa4057ded3ebb739b4933a7670009
-SHA512: 8a438c3d595fe280e88545986165a77426f33833b5e52a04a5a9def29b1821dd4f68644861046665279f9ec9bec9befcfa49fe8bb5c60a81f056b866b6d692d0
 Description: ADS Block for Anghami
   Simply disable all ads in Anghami app, It does not unlock premium features, only remove ads.
   .
