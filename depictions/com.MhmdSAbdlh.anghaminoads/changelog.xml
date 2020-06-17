@@ -1,18 +1,18 @@
 <changelog>
 	<changes>
 		<version>1.3</version>
-		<change>Add Preference Panel.</change>
+		<change>Add Preference Panel</change>
 	</changes>
 	<changes>
 		<version>1.2</version>
-		<change>Add Icon.</change>
+		<change>Add Icon</change>
 	</changes>
 	<changes>
 		<version>1.1</version>
-		<change>Edit description.</change>
+		<change>Edit description</change>
 	</changes>
 	<changes>
 		<version>1.0</version>
-		<change>Initial Release.</change>
+		<change>Initial Release</change>
 	</changes>
 </changelog>

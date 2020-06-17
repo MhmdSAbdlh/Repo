@@ -11,16 +11,15 @@
 		<package>mobilesubstrate</package>
 		<package> preferenceloader</package>
 	</dependencies>
-	<shortDescription>Disable ADS in Anghami app.</shortDescription>
+	<shortDescription>Disable ADS in Anghami app</shortDescription>
 	<descriptionlist>
-		<description>Disable Ads between songs and popup ads in Anghami app.</description>
-		<description>It works with all Anghami version.</description>
-		<description>Untested in firmware lower than 7.0
-		</description>
+		<description>Disable Ads between songs and popup ads in Anghami app</description>
+		<description>It works with all Anghami version</description>
+		<description>Untested in firmware lower than 7.0</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is Anghami App.</description>
+			<description>This is Anghami App</description>
 			<image>Anghami1.jpg</image>
 		</screenshot>
 		<screenshot>
@@ -28,9 +27,9 @@
 		</screenshot>				
 	</screenshots>
 	<changelog>
-		<change>Add Preference Panel.</change>
-		<change>Add Icon For Preference Panel.</change>
-		<change>Bugs Fix..</change>
+		<change>Add Preference Panel</change>
+		<change>Add Icon For Preference Panel</change>
+		<change>Bugs Fix</change>
 	</changelog>
 	<links>
 		<link>

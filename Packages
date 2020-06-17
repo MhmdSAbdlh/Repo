@@ -28,3 +28,33 @@ Icon: file:///Library/PreferenceLoader/Preferences/AnghamiNoAds@2x.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::7.0-13.5
 Installed-Size: 86
+
+Package: com.MhmdSAbdlh.cocoatop64
+Version: 2.0.2
+Section: Utilities
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.MhmdSAbdlh.cocoatop64_2.0.2.deb
+Size: 148046
+MD5sum: 5a321a091c585da78225d47ad6012427
+Description: GUI Process Viewer
+CocoaTop is a free jailbreak app that displays information about used CPU and RAM by running in the background apps and daemons.
+.
+Process Viewer for iOS can display various information about running processes including ID, CPU usage of all threads of a process, mach task state, mach task rate, resident memory usage, user ID, mach ports, thread count, parent PID, process time, net bytes sent and received since lunch, disk I/O read and write per updated interval, and much more. All columns can be managed from settings.
+.
+CocoaTop app can update all data in 0.5 - 10 seconds interval. The user can also make some changes to the interface like show columns total in the footer, highlight changing values, show short path, and activate full-width command line.
+Changelog: Works on iOS up to 13.5.1
+Filtering by any column
+.
+Easier column management
+Name: CocoaTop
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/cocoatop1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/cocoatop2.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/cocoatoph.jpg
+Author: Domo
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.cocoatop64
+Prefer-Native: Yes
+Icon: file:///Applications/CocoaTop.app/Icon.png
+Homepage: https://mhmdsabdlh.github.io
+Tag: compatible::6.0-13.5
+Installed-Size: 401

@@ -1,0 +1,18 @@
+<changelog>
+	<changes>
+		<version>2.0.2</version>
+		<change>Works on iOS up to 13.5.1</change>
+	</changes>
+	<changes>
+		<version>2.0.1</version>
+		<change>Filtering by any column</change>
+	</changes>
+	<changes>
+		<version>2.0</version>
+		<change>Easier column management</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
