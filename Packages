@@ -12,7 +12,9 @@ SHA256: 548e31cb603e6be258c13e42378126bfcfdfa4057ded3ebb739b4933a7670009
 SHA512: 8a438c3d595fe280e88545986165a77426f33833b5e52a04a5a9def29b1821dd4f68644861046665279f9ec9bec9befcfa49fe8bb5c60a81f056b866b6d692d0
 Description: ADS Block for Anghami
   Simply disable all ads in Anghami app, It does not unlock premium features, only remove ads.
+  .
   Work with all Anghami versions up to the last one.
+  .
   Enjoy music without ads interception 😀
 Changelog: Depiction Redesign
   Added Setting Panel
@@ -38,7 +40,9 @@ Size: 148046
 MD5sum: 5a321a091c585da78225d47ad6012427
 Description: GUI Process Viewer
   CocoaTop is a free jailbreak app that displays information about used CPU and RAM by running in the background apps and daemons.
-  Process Viewer for iOS can display various information about running processes including ID, CPU usage of all threads of a process, mach task state, mach task rate, resident memory usage, user ID, mach ports, thread count, parent PID, process time, net bytes sent and received since lunch, disk I/O read and write per updated interval, and much more.   All columns can be managed from settings.
+  .
+  Process Viewer for iOS can display various information about running processes including ID, CPU usage of all threads of a process, mach task state, mach task rate, resident memory usage, user ID, mach ports, thread count, parent PID, process time, net bytes sent and received since lunch, disk I/O read and write per updated interval, and much more. All columns can be managed from settings.
+  .
   CocoaTop app can update all data in 0.5 - 10 seconds interval. The user can also make some changes to the interface like show columns total in the footer, highlight changing values, show short path, and activate full-width command line.
 Changelog: Works on iOS up to 13.5.1
   Filtering by any column.
