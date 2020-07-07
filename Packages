@@ -7,6 +7,9 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.anghaminoads.deb
 Size: 9220
 MD5sum: a15c2e1a2cd057daa315ab99423fdbd9
+SHA1: c0d1ec2789718033366a498e3f300608c7b6da85
+SHA256: 548e31cb603e6be258c13e42378126bfcfdfa4057ded3ebb739b4933a7670009
+SHA512: 8a438c3d595fe280e88545986165a77426f33833b5e52a04a5a9def29b1821dd4f68644861046665279f9ec9bec9befcfa49fe8bb5c60a81f056b866b6d692d0
 Description: ADS Block for Anghami
   Simply disable all ads in Anghami app, It does not unlock premium features, only remove ads.
   .
@@ -35,6 +38,9 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.cocoatop64_2.0.3.deb
 Size: 147936
 MD5sum: df6119a047f8756741d0574258835c6a
+SHA1: 7e3405a3b4b11a6ff6be17b74c3e334757faf624
+SHA256: 3d607e49d3328f3565bb344bd476fa638bcbc6e8c790779d44061611e8266fff
+SHA512: 72fa42d7cfe937079605be5b3741c023d5d40142921b5cc9d6c5b639b1da7d6aa71fac196abce3e231ffc0771c4f79cfe0b281ad6a47359ec4a26cb29c6c4e7f
 Description: GUI Process Viewer
   CocoaTop is a free jailbreak app that displays information about used CPU and RAM by running in the background apps and daemons.
   .
@@ -65,6 +71,9 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.acehighsierra_5.2.deb
 Size: 13040608
 MD5sum: c55fd92eab46fdfdf2aad3cf159a4ede
+SHA1: 3e092dc62f44dee71867c18b9846023ea58f067e
+SHA256: 327da83168d8d49e30965a10c582eeb360ef1f9a054bffa15fd0bb4bee51c13b
+SHA512: c8d052ff2c15cec30706de757928e9cbe9fa44facb239b158b813ed260f4995e51657d4dc8a3daef2cdb849cf3e4f1c49caf573ae4175b6def3233dba72defe8
 Description: macOS Mojave for iOS
   Bring macOS experience to your iOS device.
   .
