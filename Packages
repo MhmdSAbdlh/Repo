@@ -64,7 +64,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.acehighsierra_5.2.deb
 Size: 13009728
-MD5sum: df6119a047f8756741d0574258835c6a
+MD5sum: 18bc3e830ba6dd142c9f8b94da5467ba
 Description: macOS Mojave for iOS
   Bring macOS experience to your iOS device.
   .
