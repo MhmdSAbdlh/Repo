@@ -63,8 +63,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.acehighsierra_5.2.deb
-Size: 13009148
-MD5sum: efe629f4684a3658c8f4ff0b5e0cded4
+Size: 13040608
+MD5sum: c55fd92eab46fdfdf2aad3cf159a4ede
 Description: macOS Mojave for iOS
   Bring macOS experience to your iOS device.
   .
@@ -83,6 +83,7 @@ Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.
 Author: iAnas
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.acehighsierra
 Prefer-Native: Yes
+Icon: file:///Library/Themes/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::6.0-13.5
-Installed-Size: 18300
+Installed-Size: 18400
