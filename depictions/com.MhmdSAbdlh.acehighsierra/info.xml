@@ -1,0 +1,46 @@
+<package>
+	<id>com.mhmdsabdlh.acehighsierra</id>
+	<name>Ace High Sierra</name>
+	<version>5.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Bring macOS experience to your iOS device.</shortDescription>
+	<descriptionlist>
+		<description>It's now compatible with iOS 11 iPhone, iPad or iPod Touch</description>
+		<description>With 350+ redesigned icons</description>
+		<description>iPad compatibility make sure you selected iPad calendar
+if you re using an iPhone you don't need it</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshots</description>
+			<image>ace1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ace2.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Add More Icons</change>		
+		<change>Works on iOS up to 13.5.1</change>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>

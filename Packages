@@ -27,14 +27,14 @@ Tag: compatible::7.0-13.5
 Installed-Size: 86
 
 Package: com.mhmdsabdlh.cocoatop64
-Version: 2.0.2
+Version: 2.0.3
 Section: Utilities
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.mhmdsabdlh.cocoatop64_2.0.2.deb
-Size: 148046
-MD5sum: 5a321a091c585da78225d47ad6012427
+Filename: ./debs/com.mhmdsabdlh.cocoatop64_2.0.3.deb
+Size: 147936
+MD5sum: df6119a047f8756741d0574258835c6a
 Description: GUI Process Viewer
   CocoaTop is a free jailbreak app that displays information about used CPU and RAM by running in the background apps and daemons.
   .
@@ -52,6 +52,37 @@ Author: Domo
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.cocoatop64
 Prefer-Native: Yes
 Icon: file:///Applications/CocoaTop.app/Icon.png
+Homepage: https://mhmdsabdlh.github.io
+Tag: compatible::6.0-13.5
+Installed-Size: 401
+
+Package: com.mhmdsabdlh.acehighsierra
+Version: 5.2
+Section: Themes
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.mhmdsabdlh.acehighsierra_5.2.deb
+Size: 147936
+MD5sum: df6119a047f8756741d0574258835c6a
+Description: macOS Mojave for iOS
+  Bring macOS experience to your iOS device.
+  .
+  It's now compatible with iOS 11 iPhone, iPad or iPod Touch
+  .
+  With 350+ redesigned icons, loading wheel.
+  .
+  iPad compatibility make sure you selected iPad calendar, if you re using an iPhone you don't need it.
+Changelog: Works on iOS up to 13.5.1
+  Add Some Icon(SofaScore, Premier League, Trix ...)
+  .
+  Update Some Icon.
+Name: Ace High Sierra
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace3.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace4.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/aceh.jpg
+Author: iAnas
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.acehighsierra
+Prefer-Native: Yes
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::6.0-13.5
 Installed-Size: 401
