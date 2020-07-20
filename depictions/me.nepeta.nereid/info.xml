@@ -1,0 +1,52 @@
+<package>
+	<id>me.nepeta.nereid</id>
+	<name>Nereid</name>
+	<version>0.1.8-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+		<package>org.thebigboss.libcolorpicker</package>
+		<package>me.nepeta.libnepeta</package>
+	</dependencies>
+	<shortDescription>Lock screen music player redesign</shortDescription>
+	<descriptionlist>
+		<description>Bring a new blur music interface to your iOS device lockscreen</description>
+		<description>It's now compatible with iOS 11 or later in iPhone, iPad or iPod Touch</description>
+		<description>With fully customization in the look</description>
+		<description>You can assign the control at left and right(shuffle, repeat, back 15 sec, etc...).</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshots</description>
+			<image>nereid1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>nereid2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>nereid3.jpg</image>
+		</screenshot>					
+	</screenshots>
+	<changelog>
+		<change>Works on iOS up to 12.4.7</change>
+		<change>More option to customize.</change>
+		<change>Bugs fix.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>
