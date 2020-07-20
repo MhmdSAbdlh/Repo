@@ -1,5 +1,5 @@
 Package: com.mhmdsabdlh.anghaminoads
-Version: 1.4
+Version: 1.3
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>=7.0), mobilesubstrate , preferenceloader
