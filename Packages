@@ -1,15 +1,15 @@
 Package: com.mhmdsabdlh.anghaminoads
-Version: 1.3
+Version: 1.4
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>=7.0), mobilesubstrate , preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.anghaminoads.deb
-Size: 9220
-MD5sum: a15c2e1a2cd057daa315ab99423fdbd9
-SHA1: c0d1ec2789718033366a498e3f300608c7b6da85
-SHA256: 548e31cb603e6be258c13e42378126bfcfdfa4057ded3ebb739b4933a7670009
-SHA512: 8a438c3d595fe280e88545986165a77426f33833b5e52a04a5a9def29b1821dd4f68644861046665279f9ec9bec9befcfa49fe8bb5c60a81f056b866b6d692d0
+Size: 39376
+MD5sum: 966edab96d62f73edd5a24095a27296a
+SHA1: 2c57cc3c2b717a233e9301b514a852d3869a9eaa
+SHA256: e46735faa36ec05261f79f06f037ae7b58c1f0ec97193825caee293fa605d11d
+SHA512: e9fbf48b875b448d7549f0d71dd64b3650511aa15e3ea0c4821beed4ed6d3ba2a9bb53a6436f50adc1ba8746a1bc448e8b9f3b2d339f644ec1aea52cf985f6c5
 Description: ADS Block for Anghami
   Simply disable all ads in Anghami app, It does not unlock premium features, only remove ads.
   .
@@ -24,10 +24,10 @@ Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.
 Author: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.anghaminoads
 Prefer-Native: Yes
-Icon: file:///Library/PreferenceLoader/Preferences/AnghamiNoAds@2x.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::7.0-13.5
-Installed-Size: 86
+Installed-Size: 253
 
 Package: com.mhmdsabdlh.cocoatop64
 Version: 2.0.3
@@ -57,7 +57,7 @@ Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.
 Author: Domo
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.cocoatop64
 Prefer-Native: Yes
-Icon: file:///Applications/CocoaTop.app/Icon.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::6.0-13.5
 Installed-Size: 401
@@ -92,7 +92,7 @@ Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.
 Author: iAnas
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.acehighsierra
 Prefer-Native: Yes
-Icon: file:///Library/Themes/icon.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::6.0-13.5
 Installed-Size: 18400
@@ -104,11 +104,11 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
-Size: 89126
-MD5sum: 2e76521d37b8a5765927df17b1884fce
-SHA1: 649c460994c133da0d33962731a5e93d7574684c
-SHA256: 7339baf5c3ff81293f4099de79c1e69b6be64fa12bab7325b39f17cc6fddda81
-SHA512: e12186b7da143aa5a264eb51de23cd537060b14f5712d019e580b729becfdab956e0cb2d2c025a89a4352855dacaa9f48b70c4e0f167238ab1007ea0f5e5e85a
+Size: 124732
+MD5sum: 8f187573b40c4793172c0477c123b164
+SHA1: 3004e4a2e545a14227dec6623c9daee0d83c8906
+SHA256: ba38691443dc9a795f30c25ca0926e733b0fc6bd67f7c9fc894b5353d1d4bcb6
+SHA512: d6ee7c36b593086889875fe9cfc30ba91333b19975c2ae8165fd61530a5e0bf5868bcd3e0c85b2221e4af95a203047c2f01b0bfb5457eceaed7acc8685bbef0d
 Description: Lock screen music player redesign
   Bring a new blur music interface to your iOS device lockscreen.
   .
@@ -130,4 +130,4 @@ Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/me.nepeta.nereid/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::11.0-12.4.7
-Installed-Size: 488
+Installed-Size: 453
