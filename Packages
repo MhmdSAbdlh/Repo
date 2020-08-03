@@ -138,7 +138,7 @@ Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/com.mhmdsabdlh.localiapstore_1.4-4
+Filename: ./debs/com.mhmdsabdlh.localiapstore_1.4-4.deb
 Size: 70796
 MD5sum: e0a3cb72877fc46726a46b4058f88e9e
 SHA1: 5d9e7bf04da3b2c3845cac31c621d36dd6aab8f8
