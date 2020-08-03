@@ -1,0 +1,53 @@
+<package>
+	<id>com.MhmdSAbdlh.localiapstore</id>
+	<name>LocalIAPStore</name>
+	<version>1.4-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxOS>13.6</maxOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>In-App purchases</shortDescription>
+	<descriptionlist>
+		<description>All iOS Without online Games and Apps</description>
+		<description>PRESS 'DISMISS' ON POPUP!</description>
+		<description>Compatible with iOS 7 -To -13</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshots</description>
+			<image>localiapstore1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>localiapstore2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>localiapstore3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>localiapstoreh.jpg</image>
+		</screenshot>					
+	</screenshots>
+	<changelog>
+		<change>Support up to iOS 13.6</change>
+		<change>Bug Fixes</change>
+		<change>Enable Double Coins</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>

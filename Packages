@@ -131,3 +131,36 @@ Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/me.nep
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::11.0-12.4.7
 Installed-Size: 453
+
+Package: com.MhmdSAbdlh.localiapstore
+Version: 1.4-4
+Section: Tweaks
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.mhmdsabdlh.localiapstore_1.4-4
+Size: 70796
+MD5sum: e0a3cb72877fc46726a46b4058f88e9e
+SHA1: 5d9e7bf04da3b2c3845cac31c621d36dd6aab8f8
+SHA256: 923ae1c28879c67a279d7e3db6acf33fc2d9a9c7956cf776b79acc72b2d565c9
+SHA512: 9c0d011ad8a16042c6bf38341ca292363ee8d87a769623ef2266b01c9727e923500eb92063b679e56a8a116508b766f9d24409be32557c1f765bccb88defaae2
+Description: In-App purchases 
+  Compatible with iOS 7 -To -13
+  .
+  All iOS Without online Games and Apps
+  .
+  PRESS 'DISMISS' ON POPUP!
+Changelog: Support up to iOS 13.6
+  Bug Fixes 
+  .
+  Enable Double Coins
+Name: LocalIAPStore
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.localiapstore/screenshots/localiapstore1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.localiapstore/screenshots/localiapstore2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.localiapstore/screenshots/localiapstore3.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.localiapstore/screenshots/localiapstoreh.jpg
+Author: Pangu
+Depiction: http://www.mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.localiapstore
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.localiapstore/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io
+Tag: compatible::7.0-13.6
+Installed-Size: 235
