@@ -129,8 +129,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.localiapstore_1.4-4.deb
-Size: 70796
-MD5sum: 0778fa4bcd1108935158ed18360f36ea
+Size: 70738
+MD5sum: 46b5b92a1f24b2bb2f08c02d740d0f9a
 Description: In-App purchases 
   Compatible with iOS 7 -To -13
   .
