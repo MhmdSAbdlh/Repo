@@ -159,8 +159,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.backgrounderaction12_0.1.2_iphoneos-arm.deb
-Size: 17090
-MD5sum: dc1c10c6dfb7932047d0e15928899ca8
+Size: 17134
+MD5sum: 7ce675d4bf1e5a756759006c52da8910
 Description: Add "Toggle Background Mode" action to ControlCenter 
   Compatible with iOS 12
   .
