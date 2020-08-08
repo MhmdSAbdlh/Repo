@@ -20,11 +20,14 @@ if you re using an iPhone you don't need it</description>
 	<screenshots>
 		<screenshot>
 			<description>Screenshots</description>
-			<image>ace1.jpg</image>
+			<image>ace2.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image>ace2.jpg</image>
-		</screenshot>				
+			<image>ace3.jpg</image>
+		</screenshot>	
+		<screenshot>
+			<image>ace1.jpg</image>
+		</screenshot>			
 	</screenshots>
 	<changelog>
 		<change>Add More Icons</change>		

@@ -35,9 +35,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.cocoatop64_2.0.3.deb
 Size: 147936
 MD5sum: df6119a047f8756741d0574258835c6a
-SHA1: 7e3405a3b4b11a6ff6be17b74c3e334757faf624
-SHA256: 3d607e49d3328f3565bb344bd476fa638bcbc6e8c790779d44061611e8266fff
-SHA512: 72fa42d7cfe937079605be5b3741c023d5d40142921b5cc9d6c5b639b1da7d6aa71fac196abce3e231ffc0771c4f79cfe0b281ad6a47359ec4a26cb29c6c4e7f
 Description: GUI Process Viewer
   CocoaTop is a free jailbreak app that displays information about used CPU and RAM by running in the background apps and daemons.
   .
@@ -102,9 +99,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
 Size: 124732
 MD5sum: 8f187573b40c4793172c0477c123b164
-SHA1: 3004e4a2e545a14227dec6623c9daee0d83c8906
-SHA256: ba38691443dc9a795f30c25ca0926e733b0fc6bd67f7c9fc894b5353d1d4bcb6
-SHA512: d6ee7c36b593086889875fe9cfc30ba91333b19975c2ae8165fd61530a5e0bf5868bcd3e0c85b2221e4af95a203047c2f01b0bfb5457eceaed7acc8685bbef0d
 Description: Lock screen music player redesign
   Bring a new blur music interface to your iOS device lockscreen.
   .
@@ -136,10 +130,7 @@ Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.localiapstore_1.4-4.deb
 Size: 70796
-MD5sum: e0a3cb72877fc46726a46b4058f88e9e
-SHA1: 5d9e7bf04da3b2c3845cac31c621d36dd6aab8f8
-SHA256: 923ae1c28879c67a279d7e3db6acf33fc2d9a9c7956cf776b79acc72b2d565c9
-SHA512: 9c0d011ad8a16042c6bf38341ca292363ee8d87a769623ef2266b01c9727e923500eb92063b679e56a8a116508b766f9d24409be32557c1f765bccb88defaae2
+MD5sum: 0778fa4bcd1108935158ed18360f36ea
 Description: In-App purchases 
   Compatible with iOS 7 -To -13
   .
