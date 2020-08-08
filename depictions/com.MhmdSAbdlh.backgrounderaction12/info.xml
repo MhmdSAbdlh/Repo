@@ -1,7 +1,7 @@
 <package>
 	<id>com.MhmdSAbdlh.backgrounderaction12</id>
 	<name>BackgrounderAction for CCSupport</name>
-	<version>0.1.0</version>
+	<version>0.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -32,7 +32,7 @@
 	</screenshots>
 	<changelog>
 		<change>Support up to iOS 12.4.8</change>		
-		<change>Add CC support </change>
+		<change>Add CC toggle in the setting</change>
 	</changelog>
 	<links>
 		<link>

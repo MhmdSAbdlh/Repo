@@ -153,12 +153,12 @@ Tag: compatible::7.0-13.6
 Installed-Size: 235
 
 Package: com.MhmdSAbdlh.backgrounderaction12
-Version: 0.1.0
+Version: 0.1.2
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport
 Architecture: iphoneos-arm
-Filename: ./debs/com.MhmdSAbdlh.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Filename: ./debs/com.MhmdSAbdlh.backgrounderaction12_0.1.2_iphoneos-arm.deb
 Size: 17090
 MD5sum: dc1c10c6dfb7932047d0e15928899ca8
 Description: Add "Toggle Background Mode" action to ControlCenter 
@@ -168,9 +168,7 @@ Description: Add "Toggle Background Mode" action to ControlCenter
   .
   However, with " Backgrounder Action for CCSupport ", it is possible to continue the same operation as the foreground in the background even if the application is closed ! This operation can be turned on and off from the toggle of the control center .
 Changelog: Support up to iOS 12.4.8
-  Add CC support 
-  .
-  Bug fixes
+  Add CC toggle in the setting
 Name: BackgrounderAction for CCSupport
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img3.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/header.jpg
@@ -180,7 +178,7 @@ Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::12.0-12.4.8
-Installed-Size: 276
+Installed-Size: 264
 
 Package: com.MhmdSAbdlh.milkyway
 Version: 0.1.4beta
