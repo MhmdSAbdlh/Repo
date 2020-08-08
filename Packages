@@ -5,11 +5,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>=7.0), mobilesubstrate , preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.anghaminoads.deb
-Size: 39376
-MD5sum: 966edab96d62f73edd5a24095a27296a
-SHA1: 2c57cc3c2b717a233e9301b514a852d3869a9eaa
-SHA256: e46735faa36ec05261f79f06f037ae7b58c1f0ec97193825caee293fa605d11d
-SHA512: e9fbf48b875b448d7549f0d71dd64b3650511aa15e3ea0c4821beed4ed6d3ba2a9bb53a6436f50adc1ba8746a1bc448e8b9f3b2d339f644ec1aea52cf985f6c5
+Size: 39350
+MD5sum: 4d5681bd277f3d69823a5f38b8c0320e
 Description: ADS Block for Anghami
   Simply disable all ads in Anghami app, It does not unlock premium features, only remove ads.
   .
@@ -63,17 +60,14 @@ Tag: compatible::6.0-13.5
 Installed-Size: 401
 
 Package: com.mhmdsabdlh.acehighsierra
-Version: 5.2
+Version: 5.4
 Section: Themes
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.mhmdsabdlh.acehighsierra_5.2.deb
-Size: 13040608
-MD5sum: c55fd92eab46fdfdf2aad3cf159a4ede
-SHA1: 3e092dc62f44dee71867c18b9846023ea58f067e
-SHA256: 327da83168d8d49e30965a10c582eeb360ef1f9a054bffa15fd0bb4bee51c13b
-SHA512: c8d052ff2c15cec30706de757928e9cbe9fa44facb239b158b813ed260f4995e51657d4dc8a3daef2cdb849cf3e4f1c49caf573ae4175b6def3233dba72defe8
+Filename: ./debs/com.MhmdSAbdlh.acehighsierra_5.4_iphoneos-arm.deb
+Size: 12996048
+MD5sum: de035a511a526e5077360261fddec764
 Description: macOS Mojave for iOS
   Bring macOS experience to your iOS device.
   .
@@ -82,12 +76,14 @@ Description: macOS Mojave for iOS
   With 350+ redesigned icons, loading wheel.
   .
   iPad compatibility make sure you selected iPad calendar, if you re using an iPhone you don't need it.
-Changelog: Works on iOS up to 13.5.1
-  Add Some Icon(SofaScore, Premier League, Trix ...)
+Changelog: Works on iOS up to 13.6
+  Add more icons(Zebra & Duolingo)
   .
-  Update Some Icon.
+  Add some icon(SofaScore, Premier League, Trix ...)
+  .
+  Update some icon.
 Name: Ace High Sierra
-Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace3.jpg
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace3.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace1.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/aceh.jpg
 Author: iAnas
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.acehighsierra
@@ -95,7 +91,7 @@ Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::6.0-13.5
-Installed-Size: 18400
+Installed-Size: 18200
 
 Package: me.nepeta.nereid
 Version: 0.1.8-1

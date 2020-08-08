@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>5.4</version>
+		<change>Add Duolingo and Zebra icons</change>
+	</changes>
+	<changes>
 		<version>5.2</version>
 		<change>Add More Icon and Fixs</change>
 	</changes>

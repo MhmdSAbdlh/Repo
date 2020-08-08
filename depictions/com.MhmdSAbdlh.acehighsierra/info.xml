@@ -1,7 +1,7 @@
 <package>
 	<id>com.mhmdsabdlh.acehighsierra</id>
 	<name>Ace High Sierra</name>
-	<version>5.2</version>
+	<version>5.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>5.0</miniOS>
@@ -28,7 +28,7 @@ if you re using an iPhone you don't need it</description>
 	</screenshots>
 	<changelog>
 		<change>Add More Icons</change>		
-		<change>Works on iOS up to 13.5.1</change>
+		<change>Works on iOS up to 13.6</change>
 		<change>Initial Release</change>
 	</changelog>
 	<links>
