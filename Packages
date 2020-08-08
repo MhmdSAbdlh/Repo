@@ -151,3 +151,67 @@ Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.Mh
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::7.0-13.6
 Installed-Size: 235
+
+Package: com.MhmdSAbdlh.backgrounderaction12
+Version: 0.1.0
+Section: Tweaks
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.MhmdSAbdlh.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Size: 17090
+MD5sum: dc1c10c6dfb7932047d0e15928899ca8
+Description: Add "Toggle Background Mode" action to ControlCenter 
+  Compatible with iOS 12
+  .
+  Introducing " BackgrounderAction for CCSupport " that can enhance the background operation
+  .
+  However, with " Backgrounder Action for CCSupport ", it is possible to continue the same operation as the foreground in the background even if the application is closed ! This operation can be turned on and off from the toggle of the control center .
+Changelog: Support up to iOS 12.4.8
+  Add CC support 
+  .
+  Bug fixes
+Name: BackgrounderAction for CCSupport
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img3.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/header.jpg
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.backgrounderaction12
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io
+Tag: compatible::12.0-12.4.8
+Installed-Size: 276
+
+Package: com.MhmdSAbdlh.milkyway
+Version: 0.1.4beta
+Section: Tweaks
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate, com.MhmdSAbdlh.backgrounderaction12 | jp.akusio.backgrounderaction12
+Architecture: iphoneos-arm
+Filename: ./debs/com.MhmdSAbdlh.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 49682
+MD5sum: b64ac08a291fe87c73cd552eed8fbe0b
+Description: multitasking for iOS
+  Compatible with iOS 11 up to 12
+  .
+  MilkyWay tweak is a free addon that adds an option to run multiple applications at once on jailbroken iPhones and iPads.
+  .
+  To activate any app in the multitasking window switch to Control Centre and enable the new Toggle Background Mode. Now open an app and lunch the system app switcher. Tap and hold on the app window to run the application in MilkyWay. At the same time, you can open multiple apps.
+  .
+  The window can be minimized, maximized, closed and there is also an option to resize it to any size using the right corner button. Moreover, change the window position by drag and drop method.
+Changelog: Support up to iOS 12.4.8
+  Bug Fixes 
+  .
+  Add iPad support
+  .
+  Now the resize bar is larger for more efficiently
+Name: MilkyWay
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img3.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/header.jpg
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.milkyway
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io
+Tag: compatible::11.0-12.4.8
+Installed-Size: 208

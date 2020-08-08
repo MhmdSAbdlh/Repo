@@ -1,0 +1,49 @@
+<package>
+	<id>ccom.MhmdSAbdlh.milkyway</id>
+	<name>MilkyWay</name>
+	<version>0.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxOS>12.4.8</maxOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.MhmdSAbdlh.backgrounderaction12</package>
+	</dependencies>
+	<shortDescription>multitasking for iOS.</shortDescription>
+	<descriptionlist>
+		<description>MilkyWay tweak is a free addon that adds an option to run multiple applications at once on jailbroken iPhones and iPads.</description>
+		<description>To activate any app in the multitasking window switch to Control Centre and enable the new Toggle Background Mode. Now open an app and lunch the system app switcher. Tap and hold on the app window to run the application in MilkyWay. At the same time, you can open multiple apps.</description>
+		<description>The window can be minimized, maximized, closed and there is also an option to resize it to any size using the right corner button. Moreover, change the window position by drag and drop method.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshots</description>
+			<image>img1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>img2.jpg</image>
+		</screenshot>	
+		<screenshot>
+			<image>img3.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Add iPad support</change>		
+		<change>Support up to iOS 12.4.8</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>

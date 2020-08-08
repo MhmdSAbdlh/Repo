@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>0.1.0</version>
+		<change>Support up to iOS 12.4.8</change>
+		<change>Add CC support</change>
+		<change>Bug fixes</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
