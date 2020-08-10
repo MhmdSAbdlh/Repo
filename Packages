@@ -5,8 +5,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>=7.0), mobilesubstrate , preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.anghaminoads.deb
-Size: 39350
-MD5sum: 4d5681bd277f3d69823a5f38b8c0320e
+Size: 39462
+MD5sum: 2b3a4b0bf5e6ad60d7f0ffaae2e3f1d5
 Description: ADS Block for Anghami
   Simply disable all ads in Anghami app, It does not unlock premium features, only remove ads.
   .
@@ -63,8 +63,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.acehighsierra_5.4_iphoneos-arm.deb
-Size: 12996048
-MD5sum: de035a511a526e5077360261fddec764
+Size: 12996190
+MD5sum: b08f8e37d0bbef38c8a7f09058ea6a08
 Description: macOS Mojave for iOS
   Bring macOS experience to your iOS device.
   .
@@ -97,8 +97,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
-Size: 124732
-MD5sum: 8f187573b40c4793172c0477c123b164
+Size: 124868
+MD5sum: fc7d6237d956a009215b1f16129f65eb
 Description: Lock screen music player redesign
   Bring a new blur music interface to your iOS device lockscreen.
   .
@@ -129,8 +129,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.mhmdsabdlh.localiapstore_1.4-4.deb
-Size: 70738
-MD5sum: 46b5b92a1f24b2bb2f08c02d740d0f9a
+Size: 70860
+MD5sum: 2ebbc88f76ec4373f2fe992e6c415b10
 Description: In-App purchases 
   Compatible with iOS 7 -To -13
   .
@@ -159,8 +159,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.backgrounderaction12_0.1.2_iphoneos-arm.deb
-Size: 17134
-MD5sum: 7ce675d4bf1e5a756759006c52da8910
+Size: 17224
+MD5sum: 8a1f8930a7268f07d09380fac9d3a92e
 Description: Add "Toggle Background Mode" action to ControlCenter 
   Compatible with iOS 12
   .
@@ -180,6 +180,37 @@ Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::12.0-12.4.8
 Installed-Size: 264
 
+Package: com.MhmdSAbdlh.avatrix
+Version: 1.0
+Section: Addons
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.MhmdSAbdlh.avatrix_1.0_iphoneos-arm.deb
+Size: 96540
+MD5sum: 3ff2b6eb5ae91981b75bbb2e9d489dac
+Description: Replace avatar in Trix with MI AMIGOS
+  Compatible with all Trix versions
+  .
+  Change the default avatars like trees and nature with real faces"my friends".
+  .
+  You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
+  .
+  Enjoy it :).
+Changelog: Support the lastest version of TRIX
+  Bug Fixes 
+  .
+  Add iPad support
+Name: AvaTrix
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg
+Author: MhmdSAbdlh <mhmdsabdlh95@gmail.com>
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.avatrix
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io
+Tag: compatible::9.0-13.6
+Installed-Size: 93.2
+
 Package: com.MhmdSAbdlh.milkyway
 Version: 0.1.4beta
 Section: Tweaks
@@ -187,8 +218,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate, com.MhmdSAbdlh.backgrounderaction12 | jp.akusio.backgrounderaction12
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 49682
-MD5sum: b64ac08a291fe87c73cd552eed8fbe0b
+Size: 49804
+MD5sum: ff189553e129036498cceb33d1284195
 Description: multitasking for iOS
   Compatible with iOS 11 up to 12
   .
