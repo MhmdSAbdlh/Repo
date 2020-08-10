@@ -181,13 +181,13 @@ Tag: compatible::12.0-12.4.8
 Installed-Size: 264
 
 Package: com.MhmdSAbdlh.avatrix
-Version: 1.0
+Version: 1.2
 Section: Addons
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.MhmdSAbdlh.avatrix_1.0_iphoneos-arm.deb
-Size: 96540
-MD5sum: 3ff2b6eb5ae91981b75bbb2e9d489dac
+Filename: ./debs/com.MhmdSAbdlh.avatrix_1.2_iphoneos-arm.deb
+Size: 277420
+MD5sum: 8aabd0797afdeb60ae0b82ecc04f6382
 Description: Replace avatar in Trix with MI AMIGOS
   Compatible with all Trix versions
   .
@@ -196,8 +196,10 @@ Description: Replace avatar in Trix with MI AMIGOS
   You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
   .
   Enjoy it :).
-Changelog: Support the lastest version of TRIX
-  Bug Fixes 
+Changelog: Support the lastest version
+  Add more avatars
+  .
+  Fixes small avatars 
   .
   Add iPad support
 Name: AvaTrix
@@ -209,7 +211,7 @@ Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::9.0-13.6
-Installed-Size: 93.2
+Installed-Size: 268.4
 
 Package: com.MhmdSAbdlh.milkyway
 Version: 0.1.4beta
