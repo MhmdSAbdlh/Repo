@@ -1,7 +1,7 @@
 <package>
 	<id>com.MhmdSAbdlh.avatrix</id>
 	<name>AvaTrix</name>
-	<version>1.2</version>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
