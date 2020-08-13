@@ -16,7 +16,7 @@
 	<descriptionlist>
 		<description>Compatible with iOS 12</description>
 		<description>Introducing " BackgrounderAction for CCSupport " that can enhance the background operation</description>
-		<description>However, with " Backgrounder Action for CCSupport ", it is possible to continue the same operation as the foreground in the background even if the application is closed ! This operation can be turned on and off from the toggle of the control center .</description>
+		<description>However, with " Backgrounder Action for CCSupport ", it is possible to continue the same operation as the foreground in the background even if the application is closed ! This operation can be turned on and off from the toggle of the control center</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
