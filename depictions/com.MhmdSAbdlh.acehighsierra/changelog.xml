@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>5.8</version>
+		<change>Add more icons(CrackTools & Activator)</change>
+		<change>Fix some icon(SofaScore & Touch)</change>
+	</changes>
+	<changes>
 		<version>5.4</version>
 		<change>Add Duolingo and Zebra icons</change>
 	</changes>

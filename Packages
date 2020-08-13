@@ -13,7 +13,9 @@ Description: ADS Block for Anghami
   Work with all Anghami versions up to the last one.
   .
   Enjoy music without ads interception 😀
-Changelog: Depiction Redesign
+Changelog: 1.3
+  New in this version:
+  .
   Added Setting Panel
 Name: AnghamiNoAds
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami2.jpg
@@ -41,7 +43,9 @@ Description: GUI Process Viewer
   Process Viewer for iOS can display various information about running processes including ID, CPU usage of all threads of a process, mach task state, mach task rate, resident memory usage, user ID, mach ports, thread count, parent PID, process time, net bytes sent and received since lunch, disk I/O read and write per updated interval, and much more. All columns can be managed from settings.
   .
   CocoaTop app can update all data in 0.5 - 10 seconds interval. The user can also make some changes to the interface like show columns total in the footer, highlight changing values, show short path, and activate full-width command line.
-Changelog: Works on iOS up to 13.5.1
+Changelog: 2.0.3
+  New in this version:
+  .
   Filtering by any column.
   .
   Easier column management.
@@ -57,14 +61,14 @@ Tag: compatible::6.0-13.5
 Installed-Size: 401
 
 Package: com.mhmdsabdlh.acehighsierra
-Version: 5.4
+Version: 5.8
 Section: Themes
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.MhmdSAbdlh.acehighsierra_5.4_iphoneos-arm.deb
-Size: 12996190
-MD5sum: b08f8e37d0bbef38c8a7f09058ea6a08
+Filename: ./debs/com.MhmdSAbdlh.acehighsierra_5.8_iphoneos-arm.deb
+Size: 13090058
+MD5sum: 97294df0a52c1925f6420679347c22cf
 Description: macOS Mojave for iOS
   Bring macOS experience to your iOS device.
   .
@@ -73,12 +77,12 @@ Description: macOS Mojave for iOS
   With 350+ redesigned icons, loading wheel.
   .
   iPad compatibility make sure you selected iPad calendar, if you re using an iPhone you don't need it.
-Changelog: Works on iOS up to 13.6
-  Add more icons(Zebra & Duolingo)
+Changelog: 5.8
+  New in this version:
   .
-  Add some icon(SofaScore, Premier League, Trix ...)
+  Add more icons(CrackTools & Activator)
   .
-  Update some icon.
+  Fix some icon(SofaScore & Touch)
 Name: Ace High Sierra
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace3.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace1.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/aceh.jpg
@@ -87,8 +91,8 @@ Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.acehig
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
-Tag: compatible::6.0-13.5
-Installed-Size: 18200
+Tag: compatible::6.0-13.6
+Installed-Size: 18300
 
 Package: me.nepeta.nereid
 Version: 0.1.8-1
@@ -107,7 +111,9 @@ Description: Lock screen music player redesign
   With fully customization in the look.
   .
   You can assign the control at left and right(shuffle, repeat, back 15 sec, etc...).
-Changelog: Support up to iOS 12.4
+Changelog: 0.1.8-1
+  New in this version:
+  .
   More option to customize.
   .
   Bugs fix.
@@ -137,7 +143,9 @@ Description: In-App purchases
   All iOS Without online Games and Apps
   .
   PRESS 'DISMISS' ON POPUP!
-Changelog: Support up to iOS 13.6
+Changelog: 1.4-4
+  New in this version:
+  .
   Bug Fixes 
   .
   Enable Double Coins
@@ -167,7 +175,9 @@ Description: Add "Toggle Background Mode" action to ControlCenter
   Introducing " BackgrounderAction for CCSupport " that can enhance the background operation
   .
   However, with " Backgrounder Action for CCSupport ", it is possible to continue the same operation as the foreground in the background even if the application is closed ! This operation can be turned on and off from the toggle of the control center .
-Changelog: Support up to iOS 12.4.8
+Changelog: 0.1.2
+  New in this version:
+  .
   Add CC toggle in the setting
 Name: BackgrounderAction for CCSupport
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img3.jpg
@@ -196,7 +206,10 @@ Description: Replace avatar in Trix with MI AMIGOS
   You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
   .
   Enjoy it :).
-Changelog: Fix after remove
+Changelog: 1.5
+  New in this version:
+  .
+  Fix after remove
 Name: AvaTrix
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg
@@ -224,7 +237,9 @@ Description: Replace avatar in Trix with MI AMIGOS
   You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
   .
   Enjoy it :).
-Changelog: Support the lastest version
+Changelog: 1.2
+  New in this version:
+  .
   Add more avatars
   .
   Fixes small avatars 
@@ -257,10 +272,10 @@ Description: Replace avatar in Trix with MI AMIGOS
   You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
   .
   Enjoy it :).
-Changelog: Support the lastest version of TRIX
-  Bug Fixes 
+Changelog: 1.0
+  New in this version:
   .
-  Add iPad support
+  Initial release
 Name: AvaTrix
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg
@@ -289,7 +304,9 @@ Description: multitasking for iOS
   To activate any app in the multitasking window switch to Control Centre and enable the new Toggle Background Mode. Now open an app and lunch the system app switcher. Tap and hold on the app window to run the application in MilkyWay. At the same time, you can open multiple apps.
   .
   The window can be minimized, maximized, closed and there is also an option to resize it to any size using the right corner button. Moreover, change the window position by drag and drop method.
-Changelog: Support up to iOS 12.4.8
+Changelog: 0.1.4beta
+  New in this version:
+  .
   Bug Fixes 
   .
   Add iPad support
