@@ -191,8 +191,6 @@ Description: Replace avatar in Trix
   .
   Change the default avatars like trees and nature with real faces"my friends".
   .
-  You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
-  .
   Enjoy it :).
 Changelog: Fixes & improvements
   Fix after remove
@@ -201,6 +199,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg
 Author: MhmdSAbdlh <mhmdsabdlh95@gmail.com>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.avatrix
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.avatrix/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
