@@ -1,0 +1,47 @@
+<package>
+	<id>com.MhmdSAbdlh.autoscroll</id>
+	<name>AutoScroll</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+		<package>ws.hbang.common</package>
+		<package>org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription>Smart Auto Scroll and Faster Scrolling on all app</shortDescription>
+	<descriptionlist>
+		<description>AutoScroll is very easy to use. Upon swiping once to get started, the tweak disables iOS’ native scrolling inertia, which means no slowdown and no halt. Consequently, the scrolling effect endures with no end until stopped with a tap.</description>
+		<description>AutoScroll provides three different scrolling speeds, and it automatically selects the speed based on how harshly you flick your finger. For example, scrolling quickly will result in a faster automatic scrolling speed, while scrolling softly will result in a slower automatic scrolling speed. The former is best for searching, while the latter is ideal for reading.</description>
+		<description>According to the developer, the tweak should work in all apps with a scrolling interface, native or not.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>img1.gif</image>
+		</screenshot>
+		<screenshot>
+			<image>img2.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Added support for iOS13</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>

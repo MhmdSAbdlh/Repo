@@ -1,3 +1,34 @@
+Package: com.MhmdSAbdlh.autoscroll
+Version: 1.0.2
+Section: Tweaks
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, applist, org.thebigboss.libcolorpicker
+Conflicts: com.pxcex.autoscroll
+Architecture: iphoneos-arm
+Filename: ./debs/com.MhmdSAbdlh.autoscroll_1.0.2_iphoneos-arm.deb
+Size: 41304
+MD5sum: 8f776953551c8e09a4ce9601fea92400
+Description: Smart Auto Scroll & Faster Scrolling on all app
+  AutoScroll is very easy to use. Upon swiping once to get started, the tweak disables iOS’ native scrolling inertia, which means no slowdown and no halt. Consequently, the scrolling effect endures with no end until stopped with a tap.
+  .
+  AutoScroll provides three different scrolling speeds, and it automatically selects the speed based on how harshly you flick your finger. For example, scrolling quickly will result in a faster automatic scrolling speed, while scrolling softly will result in a slower automatic scrolling speed. The former is best for searching, while the latter is ideal for reading.
+  .
+  According to the developer, the tweak should work in all apps with a scrolling interface, native or not.
+Changelog: Fixes & improvements
+  Added support for iOS 13
+  .
+  Fix some bugs
+Name: AutoScroll
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/img1.gif, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/img2.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/header.jpg
+Author: pxcex
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.autoscroll
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo/
+Tag: compatible::12.0-13.6
+Installed-Size: 217.2
+
 Package: com.MhmdSAbdlh.palert
 Version: 1.2
 Section: Tweaks
