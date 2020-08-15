@@ -6,8 +6,8 @@ Depends: mobilesubstrate, ws.hbang.common, preferenceloader, applist, org.thebig
 Conflicts: com.pxcex.autoscroll
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.autoscroll_1.0.2_iphoneos-arm.deb
-Size: 41304
-MD5sum: 8f776953551c8e09a4ce9601fea92400
+Size: 41174
+MD5sum: 5e93e0b9241bd4f0118306ca4404fd48
 Description: Smart Auto Scroll & Faster Scrolling on all app
   AutoScroll is very easy to use. Upon swiping once to get started, the tweak disables iOS’ native scrolling inertia, which means no slowdown and no halt. Consequently, the scrolling effect endures with no end until stopped with a tap.
   .
