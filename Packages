@@ -27,7 +27,7 @@ Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo/
 Tag: compatible::12.0-13.6
-Installed-Size: 217.2
+Installed-Size: 217
 
 Package: com.MhmdSAbdlh.palert
 Version: 1.2
