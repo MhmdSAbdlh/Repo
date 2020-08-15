@@ -1,3 +1,28 @@
+Package: com.MhmdSAbdlh.3dpercentage
+Version: 1.0.3
+Section: Tweaks
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.mtac.3dpercentage
+Architecture: iphoneos-arm
+Filename: ./debs/com.MhmdSAbdlh.3dpercentage_1.0.3_iphoneos-arm.deb
+Size: 13586
+MD5sum: b20b00775be769ee0a1c3c620f83a481
+Description: 3DTouch For Battery
+  View your battery percentage from Settings 3D Touch platter
+Changelog: Fixes & improvements
+  Fixed issue where IP address wouldn't appear due to comparison of menu titles
+Name: 3DPercentage
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.3dpercentage/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.3dpercentage/screenshots/img2.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.3dpercentage/screenshots/header.jpg
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.3dpercentage
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.3dpercentage/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo/
+Tag: compatible::10.0-12.4.8
+Installed-Size: 110.2
+
 Package: com.MhmdSAbdlh.nosharexi
 Version: 1.0-5
 Section: Utilities

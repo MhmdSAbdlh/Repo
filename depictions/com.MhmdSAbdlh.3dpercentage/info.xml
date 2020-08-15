@@ -1,0 +1,42 @@
+<package>
+	<id>com.MhmdSAbdlh.3dpercentage</id>
+	<name>3DPercentage</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxOS>12.5</maxOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>3DTouch For Battery</shortDescription>
+	<descriptionlist>
+		<description>View your battery percentage from Settings 3D Touch platter</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>img1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>img2.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Fixed issue where IP address wouldn't appear due to comparison of menu titles</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>
