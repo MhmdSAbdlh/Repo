@@ -1,0 +1,50 @@
+<package>
+	<id>com.MhmdSAbdlh.palert</id>
+	<name>Palert</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>tvOS style alerts</shortDescription>
+	<descriptionlist>
+		<description>Palert gives an unique look for your alerts. It has a similar style like tvOS alerts.</description>
+		<description>The tweak comes with a few customization options such as blur amount, color, underlay (your current wallpaper or the current screen displayed on the device), alternative button style (default buttons are colored white), and adjustable alert size (useful on devices above 5.5" screen size).</description>
+		<description>To make the text more readable, the color of them and text boxes are set automatically based on your selected color for blur. You can preview the alerts with a built in action button.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>img1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>img2.jpg</image>
+		</screenshot>	
+		<screenshot>
+			<image>img3.jpg</image>
+		</screenshot>	
+		<screenshot>
+			<image>img4.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>FAdded support for iOS 11,12 and 13 by level3tjg</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>
