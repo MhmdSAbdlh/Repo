@@ -2,7 +2,7 @@ Package: com.MhmdSAbdlh.palert
 Version: 1.2
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.tonyk7.0vigilate, com.level3tjg.1vigilate, org.thebigboss.palert
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.palert_1.2_iphoneos-arm.deb
@@ -31,7 +31,7 @@ Package: com.MhmdSAbdlh.anghaminoads
 Version: 1.3
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
-Depends: firmware (>=7.0), mobilesubstrate , preferenceloader
+Depends: mobilesubstrate , preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.anghaminoads_1.3_iphoneos-arm.deb
 Size: 39454
@@ -60,6 +60,7 @@ Version: 2.0.3
 Section: Utilities
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate
+Conflicts: ru.domo.cocoatop, ru.rejail.cocoatop64
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.cocoatop64_2.0.3_iphoneos-arm.deb
 Size: 147978
@@ -89,7 +90,7 @@ Package: com.MhmdSAbdlh.acehighsierra
 Version: 5.8
 Section: Themes
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.anemonetheming.anemone | com.spark.snowboard | com.artikus.neonboard-lite
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.acehighsierra_5.8_iphoneos-arm.deb
 Size: 13090094
@@ -121,7 +122,7 @@ Package: me.nepeta.nereid
 Version: 0.1.8-1
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta
 Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
 Size: 124868
@@ -153,7 +154,7 @@ Package: com.MhmdSAbdlh.localiapstore
 Version: 1.4-4
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.localiapstore_1.4-4_iphoneos-arm.deb
 Size: 70896
@@ -181,7 +182,7 @@ Package: com.MhmdSAbdlh.backgrounderaction12
 Version: 0.1.2
 Section: Tweaks
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
-Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport
+Depends: mobilesubstrate, com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.backgrounderaction12_0.1.2_iphoneos-arm.deb
 Size: 17244
