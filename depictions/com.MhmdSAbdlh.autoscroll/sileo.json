@@ -71,6 +71,11 @@
                     "title": "Developer"
                 },
                 {
+                    "class": "DepictionTableTextView",
+                    "text": "MhmdSAbdlh",
+                    "title": "Maintainer"
+                },
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 }
