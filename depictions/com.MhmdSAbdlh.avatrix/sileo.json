@@ -22,7 +22,7 @@
                     "spacing": 8
                 },
                 {
-                    "itemSize": "{160, 275.41333333333336}",
+                    "itemSize": "{160, 80}",
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
@@ -64,10 +64,6 @@
                     "class": "DepictionTableTextView",
                     "text": "Free",
                     "title": "Price"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
                 },
                 {
                     "class": "DepictionTableTextView",

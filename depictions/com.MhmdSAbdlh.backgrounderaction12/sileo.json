@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "tintColor": "#0657bb",
-    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/header.jpg",
     "class": "DepictionTabView",
     "tabs": [
         {
@@ -9,11 +9,11 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "AvaTrix",
+                    "title": "BackgrounderActionforCCSupport",
                     "useBoldText": true
                 },
                 {
-                    "markdown": "Replace avatar in Trix Card Game",
+                    "markdown": "Toggle Background Mode",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -27,21 +27,21 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img1.jpg",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img2.jpg",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/img3.jpg",
                             "accessibilityText": "Screenshot2"
                         }
                     ]
                 },
                 {
-                    "markdown": "Change the default avatars like trees and nature with real faces\"my friends\".  Enjoy it :).",
+                    "markdown": "Compatible with iOS 12\r\n\r\nIntroducing \" BackgrounderAction for CCSupport \" that can enhance the background operation\r\n\r\nHowever, with \" Backgrounder Action for CCSupport \", it is possible to continue the same operation as the foreground in the background even if the application is closed ! \r\n\r\nThis operation can be turned on and off from the toggle of the control center .",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -52,12 +52,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5",
+                    "text": "0.1.2",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "08-14-2020",
+                    "text": "08-16-2020",
                     "title": "Released"
                 },
                 {
@@ -66,14 +66,20 @@
                     "title": "Price"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "class": "DepictionTableTextView",
+                    "text": "akusio",
+                    "title": "Developer"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "MhmdSAbdlh",
-                    "title": "Developer"
+                    "title": "Maintainer"
                 },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
@@ -86,43 +92,22 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.5",
+					"title": "0.1.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fix remove tweak",
+					"markdown": "\t\n\u2022 Add CC toggle in the setting",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 16/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 15/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
-				{
-					"title": "1.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Add my avatar",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "\t\n\u2022 Fix small avatars",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/8/2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
+{
 					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -134,7 +119,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 6/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

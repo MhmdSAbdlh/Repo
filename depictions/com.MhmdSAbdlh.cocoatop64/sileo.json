@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "tintColor": "#0657bb",
-    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/cocoatoph.jpg",
     "class": "DepictionTabView",
     "tabs": [
         {
@@ -9,11 +9,11 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "AvaTrix",
+                    "title": "CocoaTop",
                     "useBoldText": true
                 },
                 {
-                    "markdown": "Replace avatar in Trix Card Game",
+                    "markdown": "GUI Process Viewer",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -27,21 +27,17 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/cocoatop1.jpg",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/cocoatop2.jpg",
                             "accessibilityText": "Screenshot1"
-                        },
-                        {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg",
-                            "accessibilityText": "Screenshot2"
                         }
                     ]
                 },
                 {
-                    "markdown": "Change the default avatars like trees and nature with real faces\"my friends\".  Enjoy it :).",
+                    "markdown": "CocoaTop is a free jailbreak app that displays information about used CPU and RAM by running in the background apps and daemons.\r\n\r\nProcess Viewer for iOS can display various information about running processes including ID, CPU usage of all threads of a process, mach task state, mach task rate, resident memory usage, user ID, mach ports, thread count, parent PID, process time, net bytes sent and received since lunch, disk I/O read and write per updated interval, and much more. All columns can be managed from settings.\r\n\r\nCocoaTop app can update all data in 0.5 - 10 seconds interval. The user can also make some changes to the interface like show columns total in the footer, highlight changing values, show short path, and activate full-width command line.",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -52,12 +48,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5",
+                    "text": "2.0.3",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "08-14-2020",
+                    "text": "08-16-2020",
                     "title": "Released"
                 },
                 {
@@ -66,14 +62,20 @@
                     "title": "Price"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "class": "DepictionTableTextView",
+                    "text": "Domo",
+                    "title": "Developer"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "MhmdSAbdlh",
-                    "title": "Developer"
+                    "title": "Maintainer"
                 },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
@@ -86,39 +88,23 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.5",
+					"title": "2.0.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fix remove tweak",
+					"markdown": "\t\n\u2022 Filtering by any column.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 16/8/2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Add my avatar",
+					"markdown": "\t\n\u2022 Easier column management.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fix small avatars",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 5/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -134,12 +120,9 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 6/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
-			],
-			"class": "DepictionStackView"
-		}
     ]
 }

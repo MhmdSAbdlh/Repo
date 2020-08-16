@@ -134,6 +134,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/Anghami1.jpg
 Author: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.anghaminoads
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.anghaminoads/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.anghaminoads/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
@@ -165,6 +166,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/cocoatoph.jpg
 Author: Domo
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.cocoatop64
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.cocoatop64/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.cocoatop64/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
@@ -197,6 +199,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/aceh.jpg
 Author: iAnas
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.acehighsierra
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.acehighsierra/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
@@ -215,8 +218,6 @@ MD5sum: fc7d6237d956a009215b1f16129f65eb
 Description: LS Music Design
   Bring a new blur music interface to your iOS device lockscreen.
   .
-  It's now compatible with iOS 11 or later in iPhone, iPad or iPod Touch
-  .
   With fully customization in the look.
   .
   You can assign the control at left and right(shuffle, repeat, back 15 sec, etc...).
@@ -229,6 +230,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/me
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/me.nepeta.nereid/screenshots/nereidh.jpg
 Author: Nepeta
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=me.nepeta.nereid
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/me.nepeta.nereid/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/me.nepeta.nereid/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
@@ -257,6 +259,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.localiapstore/screenshots/localiapstoreh.jpg
 Author: Pangu
 Depiction: http://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.localiapstore
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.localiapstore/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.localiapstore/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
@@ -287,6 +290,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/header.jpg
 Author: akusio <akusio-report@neko2.net>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.backgrounderaction12
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.backgrounderaction12/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.backgrounderaction12/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
@@ -415,6 +419,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/header.jpg
 Author: akusio <akusio-report@neko2.net>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.milkyway
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.milkyway/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo

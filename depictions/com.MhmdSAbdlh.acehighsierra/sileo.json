@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "tintColor": "#0657bb",
-    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/aceh.jpg",
     "class": "DepictionTabView",
     "tabs": [
         {
@@ -9,11 +9,11 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "AvaTrix",
+                    "title": "AceHighSierra",
                     "useBoldText": true
                 },
                 {
-                    "markdown": "Replace avatar in Trix Card Game",
+                    "markdown": "macOS Mojave for iOS",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -27,21 +27,21 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace2.jpg",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace3.jpg",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace1.jpg",
                             "accessibilityText": "Screenshot2"
                         }
                     ]
                 },
                 {
-                    "markdown": "Change the default avatars like trees and nature with real faces\"my friends\".  Enjoy it :).",
+                    "markdown": "Bring macOS experience to your iOS device.\r\n\r\nIt's now compatible with iOS 11,12 & 13 iPhone, iPad or iPod Touch\r\n\r\nWith 350+ redesigned icons, loading wheel.\r\n\r\niPad compatibility make sure you selected iPad calendar, if you re using an iPhone you don't need it.",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -52,28 +52,34 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5",
+                    "text": "5.8",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "08-14-2020",
+                    "text": "08-16-2020",
                     "title": "Released"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Free",
+                    "text": "Paid",
                     "title": "Price"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "class": "DepictionTableTextView",
+                    "text": "iAnas",
+                    "title": "Developer"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "MhmdSAbdlh",
-                    "title": "Developer"
+                    "title": "Maintainer"
                 },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
@@ -86,39 +92,34 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.5",
+					"title": "5.8",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fix remove tweak",
+					"markdown": "\t\n\u2022 Add more icons(CrackTools & Activator)",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 16/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 15/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"title": "1.2",
+					"title": "4.5",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Add my avatar",
+					"markdown": "\t\n\u2022 Fix some icon(SofaScore & Touch)",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fix small avatars",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 15/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -134,7 +135,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 6/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

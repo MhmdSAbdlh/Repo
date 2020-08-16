@@ -37,7 +37,7 @@
                     ]
                 },
                 {
-                    "markdown": "AutoScroll is very easy to use. Upon swiping once to get started, the tweak disables iOS\u2019 native scrolling inertia, which means no slowdown and no halt. Consequently, the scrolling effect endures with no end until stopped with a tap.\r\nAutoScroll provides three different scrolling speeds, and it automatically selects the speed based on how harshly you flick your finger. For example, scrolling quickly will result in a faster automatic scrolling speed, while scrolling softly will result in a slower automatic scrolling speed. The former is best for searching, while the latter is ideal for reading.\r\nAccording to the developer, the tweak should work in all apps with a scrolling interface, native or not.",
+                    "markdown": "AutoScroll is very easy to use. Upon swiping once to get started, the tweak disables iOS\u2019 native scrolling inertia, which means no slowdown and no halt. Consequently, the scrolling effect endures with no end until stopped with a tap.\r\n\r\nAutoScroll provides three different scrolling speeds, and it automatically selects the speed based on how harshly you flick your finger. \r\n\r\nFor example, scrolling quickly will result in a faster automatic scrolling speed, while scrolling softly will result in a slower automatic scrolling speed. The former is best for searching, while the latter is ideal for reading.\r\n\r\nAccording to the developer, the tweak should work in all apps with a scrolling interface, native or not.",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -62,10 +62,6 @@
                     "title": "Price"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
                     "class": "DepictionTableTextView",
                     "text": "pxcex",
                     "title": "Developer"
@@ -75,6 +71,11 @@
                     "text": "MhmdSAbdlh",
                     "title": "Maintainer"
                 },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8

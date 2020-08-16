@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "tintColor": "#0657bb",
-    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/header.jpg",
     "class": "DepictionTabView",
     "tabs": [
         {
@@ -9,11 +9,11 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "AvaTrix",
+                    "title": "MilkyWay",
                     "useBoldText": true
                 },
                 {
-                    "markdown": "Replace avatar in Trix Card Game",
+                    "markdown": "Multitasking for iOS",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -27,21 +27,21 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img1.jpg",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img2.jpg",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img3.jpg",
                             "accessibilityText": "Screenshot2"
                         }
                     ]
                 },
                 {
-                    "markdown": "Change the default avatars like trees and nature with real faces\"my friends\".  Enjoy it :).",
+                    "markdown": "Compatible with iOS 11 up to 12\r\n\r\nMilkyWay tweak is a free addon that adds an option to run multiple applications at once on jailbroken iPhones and iPads.\r\n\r\nTo activate any app in the multitasking window switch to Control Centre and enable the new Toggle Background Mode. Now open an app and lunch the system app switcher. Tap and hold on the app window to run the application in MilkyWay. At the same time, you can open multiple apps.\r\n\r\nThe window can be minimized, maximized, closed and there is also an option to resize it to any size using the right corner button. Moreover, change the window position by drag and drop method.",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -52,12 +52,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5",
+                    "text": "0.1.4beta",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "08-14-2020",
+                    "text": "08-16-2020",
                     "title": "Released"
                 },
                 {
@@ -66,14 +66,20 @@
                     "title": "Price"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "class": "DepictionTableTextView",
+                    "text": "akusio",
+                    "title": "Developer"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "MhmdSAbdlh",
-                    "title": "Developer"
+                    "title": "Maintainer"
                 },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
@@ -86,44 +92,28 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.5",
+					"title": "0.1.4beta",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Fix remove tweak",
+					"markdown": "\t\n\u2022 Now the resize bar is larger for more efficiently",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 16/8/2020</small>",
+					"markdown": "\t\n\u2022 Add iPad support",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 15/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
-				{
-					"title": "1.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Add my avatar",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "\t\n\u2022 Fix small avatars",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/8/2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.0",
+{
+					"title": "0.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
@@ -134,7 +124,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 6/8/2020</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
