@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "tintColor": "#0657bb",
-    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/header.jpg",
     "class": "DepictionTabView",
     "tabs": [
         {
@@ -9,11 +9,11 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "AvaTrix",
+                    "title": "AutoScroll",
                     "useBoldText": true
                 },
                 {
-                    "markdown": "Replace avatar in Trix Card Game",
+                    "markdown": "Smart Auto Scroll & Faster Scrolling on all app",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -27,21 +27,17 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/img1.gif",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.autoscroll/screenshots/img2.jpg",
                             "accessibilityText": "Screenshot1"
-                        },
-                        {
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg",
-                            "accessibilityText": "Screenshot2"
                         }
                     ]
                 },
                 {
-                    "markdown": "Change the default avatars like trees and nature with real faces\"my friends\".  Enjoy it :).",
+                    "markdown": "AutoScroll is very easy to use. Upon swiping once to get started, the tweak disables iOS\u2019 native scrolling inertia, which means no slowdown and no halt. Consequently, the scrolling effect endures with no end until stopped with a tap.\r\nAutoScroll provides three different scrolling speeds, and it automatically selects the speed based on how harshly you flick your finger. For example, scrolling quickly will result in a faster automatic scrolling speed, while scrolling softly will result in a slower automatic scrolling speed. The former is best for searching, while the latter is ideal for reading.\r\nAccording to the developer, the tweak should work in all apps with a scrolling interface, native or not.",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -52,12 +48,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5",
+                    "text": "1.0.2",
                     "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "08-14-2020",
+                    "text": "08-16-2020",
                     "title": "Released"
                 },
                 {
@@ -71,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "MhmdSAbdlh",
+                    "text": "pxcex",
                     "title": "Developer"
                 },
                 {
@@ -81,65 +77,6 @@
             ],
             "tabname": "Details",
             "class": "DepictionStackView"
-        },
-		{
-			"tabname": "Changelog",
-			"views": [
-				{
-					"title": "1.5",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Fix remove tweak",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 16/8/2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Add my avatar",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "\t\n\u2022 Fix small avatars",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/8/2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Initial Release",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 6/8/2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
+        }
     ]
 }
