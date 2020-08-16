@@ -17,6 +17,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.3dpercentage/screenshots/header.jpg
 Author: MTAC <mtactheming@gmail.com>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.3dpercentage
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.3dpercentage/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.3dpercentage/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo/
@@ -33,7 +34,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.nosharexi_1.0-5_iphoneos-arm.deb
 Size: 12000
 MD5sum: 3698ccef8da36c5f51c576f26011baa9
-Description: Get rid of Share App option on 3D Touch menus
+Description: Get rid of Share on 3DT
   Get rid of the annoying Share option on AppStore apps
 Changelog: Fixes & improvements
   Added support for iOS 12.4.8
@@ -42,6 +43,7 @@ Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/co
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.nosharexi/screenshots/header.jpg
 Author: MTAC <mtactheming@gmail.com>
 Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.nosharexi
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.nosharexi/sileo.json
 Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.nosharexi/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo/
