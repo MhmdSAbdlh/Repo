@@ -101,7 +101,7 @@
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 15/8/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
-				};
+				},
 {
 					"title": "1.0",
 					"useBoldText": true,
