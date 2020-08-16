@@ -124,5 +124,8 @@
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
+			],
+			"class": "DepictionStackView"
+		}
     ]
 }
