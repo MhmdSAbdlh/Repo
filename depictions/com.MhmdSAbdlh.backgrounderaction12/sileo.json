@@ -57,6 +57,11 @@
                 },
                 {
                     "class": "DepictionTableTextView",
+                    "text": "iOS 12.0 to 12.4.8",
+                    "title": "Compatibility"
+                },
+                {
+                    "class": "DepictionTableTextView",
                     "text": "08-16-2020",
                     "title": "Released"
                 },
