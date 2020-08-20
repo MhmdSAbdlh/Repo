@@ -1,0 +1,16 @@
+<changelog>
+	<changes>
+		<version>1.0.4</version>
+		<change>Fixes the SwipeSelection bug where the copy/paste menu stays on screen after deleting text (by RestiveConch).</change>
+		<change>Fix short press delete key no sound while using SwipeSelection (by Gary nil).</change>
+		<change>Add iOS 12 and 13 support and A12.</change>
+	</changes>
+	<changes>
+		<version>1.0.3</version>
+		<change>Fix compatibility inside Cydia on iOS 9 (Thanks to JerryEn for the fix)</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

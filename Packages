@@ -1,3 +1,43 @@
+Package: com.MhmdSAbdlh.swipeselection-pro
+Version: 1.0.4
+Section: Tweaks
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix, tw.garynil.ZSwipeSelectionDelSoundFix
+Architecture: iphoneos-arm
+Filename: ./debs/com.MhmdSAbdlh.swipeselection-pro_1.0.4_iphoneos-arm.deb
+Size: 57446
+MD5sum: 6108a83ca67b14a4bf7c1db3d7534583
+Description: Keyboard swiping
+  Swipe along the keyboard to move cursor & select text
+  .
+  Compatible with iOS 7 to 13
+  .
+  A new way to edit text on iOS using gestures on the keyboard to move the cursor and select text.
+  .
+  Swipe to move the cursor. Swipe from the shift (or delete) keys to select text.
+  .
+  The Pro version has been rewritten for iOS 7 & includes a selection of settings to customise SwipeSelection to your typing style. Adjust the swipe sensitivity, cursor speed and which portion of the keyboard should be swipeable; as well as the ability to toggle some other features.
+  .
+  No icon will be added to the homescreen, all options can be found in the settings app itself.
+Changelog: Fixes & improvements
+  Fixes the SwipeSelection bug where the copy/paste menu stays on screen after deleting text (by RestiveConch).
+  .
+  Fix short press delete key no sound while using SwipeSelection (by Gary nil).
+  .
+  Add iOS 12&13 support and A12.
+Name: SwipeSelection Pro
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/img3.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/header.jpg
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.swipeselection-pro
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.swipeselection-pro/sileo.json
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo/
+Tag: compatible::7.0-13.5
+Installed-Size: 617
+
 Package: com.MhmdSAbdlh.3dpercentage
 Version: 1.0.3
 Section: Tweaks

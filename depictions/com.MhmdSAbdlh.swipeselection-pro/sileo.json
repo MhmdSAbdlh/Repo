@@ -1,0 +1,145 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#0657bb",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/header.jpg",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "SwipeSelection Pro",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Swipe along the keyboard to move cursor & select text",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/img1.jpg",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/img2.jpg",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.swipeselection-pro/screenshots/img3.jpg",
+                            "accessibilityText": "Screenshot2"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "A new way to edit text on iOS using gestures on the keyboard to move the cursor and select text.",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0.4",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 7.0 to 13.6",
+                    "title": "Compatibility"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "21-08-2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Paid",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iKy1e (Kyle Howells)",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "MhmdSAbdlh",
+                    "title": "Maintainer"
+                },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        },
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fixes the SwipeSelection bug where the copy/paste menu stays on screen after deleting text (by RestiveConch).",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fix short press delete key no sound while using SwipeSelection (by Gary nil).",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 Add iOS 12&13 support and A12.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/8/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14/8/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+    ]
+}
