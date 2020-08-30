@@ -1,0 +1,131 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#0657bb",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.ldrestart/screenshots/header.jpg",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "ldrestart for Activator",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Run ldrestart from Activator",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.ldrestart/screenshots/img1.jpg",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.ldrestart/screenshots/img2.jpg",
+                            "accessibilityText": "Screenshot1"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "Now run ldrestart from Activator with any gesture you want!",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.2",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 11.0 to 13.6.1",
+                    "title": "Compatibility"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "08-31-2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "mikiyan1978",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "MhmdSAbdlh",
+                    "title": "Maintainer"
+                },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        },
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Add icon when selected by MhmdSAbdlh(helpfull when use it on menu).",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 31/8/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14/8/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+    ]
+}

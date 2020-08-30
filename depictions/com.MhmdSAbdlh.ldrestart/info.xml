@@ -1,0 +1,43 @@
+<package>
+	<id>com.MhmdSAbdlh.ldrestart</id>
+	<name>ldrestart for Activator</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxOS>13.6.1</maxOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>libactivator</package>
+	</dependencies>
+	<shortDescription>LDRestart from Activator</shortDescription>
+	<descriptionlist>
+		<description>Now run ldrestart from Activator with any gesture you want!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>img1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>img2.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Add icon when selected by MhmdSAbdlh(helpfull when use it on menu).</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>
