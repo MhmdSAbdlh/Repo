@@ -1,7 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.3</version>
+		<change>Fix icon</change>
+	</changes>
+	<changes>
 		<version>1.2</version>
-		<change>Add icon when selected by MhmdSAbdlh(helpfull when use it on menu).</change>
+		<change>Add icon when selected by MhmdSAbdlh(helpfull when use it on menu)</change>
 	</changes>
 	<changes>
 		<version>1.0</version>

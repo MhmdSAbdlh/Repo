@@ -1,21 +1,19 @@
 Package: com.MhmdSAbdlh.ldrestart
-Version: 1.2
-Section: Tweaks
+Version: 1.3
+Section: Addons
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate, libactivator
 Conflicts: com.mikiyan1978.ldrestart
 Architecture: iphoneos-arm
-Filename: ./debs/com.MhmdSAbdlh.ldrestart_1.2_iphoneos-arm.deb
-Size: 31874
-MD5sum: 7df590cbee9798d54d659cb228979bd0
+Filename: ./debs/com.MhmdSAbdlh.ldrestart_1.3_iphoneos-arm.deb
+Size: 30622
+MD5sum: 5f7abbb46165b0e16e555c4ad5babf5a
 Description: LDRestart from Activator
   Compatible with iOS 11, 12 and 13
   .
   Now run ldrestart from Activator with any gesture you want!
 Changelog: Fixes & improvements
-  Add icon when selected by MhmdSAbdlh(helpfull when use it on menu).
-  .
-  Add iOS 12&13 support and A12.
+  Fix icon
 Name: ldrestart for Activator
 Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.ldrestart/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.ldrestart/screenshots/img2.jpg
 Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.ldrestart/screenshots/header.jpg
@@ -25,7 +23,7 @@ Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.ldrestart/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo/
 Tag: compatible::11.0-13.6.1
-Installed-Size: 316
+Installed-Size: 307
 
 Package: com.MhmdSAbdlh.swipeselection-pro
 Version: 1.0.4
