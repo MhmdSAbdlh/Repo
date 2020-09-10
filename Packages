@@ -1,3 +1,29 @@
+Package: com.MhmdSAbdlh.installedpercent
+Version: 1.0.3
+Section: Tweaks
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Architecture: iphoneos-arm
+Filename: ./debs/installedpercent.deb
+Size: 5148
+MD5sum: 158ebc7408c06cabd7d7c7359fb48087
+Description: Downloading percent
+  Compatible with iOS 12 and 13
+  .
+  Show a percent when downloading from app store and a notification when it finish
+Changelog: New Features
+  Add notification when finish
+Name: Installed Percent
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.installedpercent/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.installedpercent/screenshots/img2.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.installedpercent/screenshots/header.jpg
+Author: pxcex
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.installedpercent
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.installedpercent/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo/
+Tag: compatible::12.0-13.6.1
+Installed-Size: 129
+
 Package: com.MhmdSAbdlh.ldrestart
 Version: 1.3
 Section: Addons

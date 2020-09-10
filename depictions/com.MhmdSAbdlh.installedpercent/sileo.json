@@ -1,0 +1,131 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#0657bb",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.installedpercent/screenshots/header.jpg",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "Installed Percent",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Downloading percent",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.installedpercent/screenshots/img1.jpg",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.installedpercent/screenshots/img2.jpg",
+                            "accessibilityText": "Screenshot1"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "Compatible with iOS 12 and 13 \r\n\r\nShow a percent when downloading from app store and a notification when it finish",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0.3",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 12.0 to 13.5",
+                    "title": "Compatibility"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "08-16-2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Paid",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "pxcex",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "MhmdSAbdlh",
+                    "title": "Maintainer"
+                },
+				{
+					"title": "Website",
+					"action": "https://mhmdsabdlh.github.io/Repo/",
+					"class": "DepictionTableButtonView"
+				},
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        },
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Add notification when finish",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 12/8/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 11/8/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+    ]
+}

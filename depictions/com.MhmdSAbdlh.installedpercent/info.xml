@@ -1,0 +1,43 @@
+<package>
+	<id>com.MhmdSAbdlh.installedpercent</id>
+	<name>Installed Percent</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>net.limneos.libbulletin</package>
+	</dependencies>
+	<shortDescription>Downloading percent and notification</shortDescription>
+	<descriptionlist>
+		<description>Compatible with iOS 12 and 13</description>
+		<description>Show a percent when downloading from app store and a notification when it finish</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>img1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>img2.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Add notification when finish</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>iOS Repo Updates</name>
+			<url>https://www.ios-repo-updates.com/news/</url>
+			<iconclass>fa fa-cydia</iconclass>
+		</link>
+	</links>
+</package>
