@@ -6,8 +6,8 @@ Depends: mobilesubstrate, libactivator
 Conflicts: com.mikiyan1978.ldrestart
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.ldrestart_1.3_iphoneos-arm.deb
-Size: 30622
-MD5sum: 5f7abbb46165b0e16e555c4ad5babf5a
+Size: 30312
+MD5sum: 3a6149f2f7ef23026620c7574dc7a228
 Description: LDRestart from Activator
   Compatible with iOS 11, 12 and 13
   .
