@@ -336,8 +336,8 @@ Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.MhmdSAbdlh.localiapstore_1.4-4_iphoneos-arm.deb
-Size: 70896
-MD5sum: b3ac3a7876bb2dba1cbea1252ea6db03
+Size: 21856246
+MD5sum: e93ee7835420902e3099ef2a8578c3be
 Description: In-App purchases 
   Compatible with iOS 7 to 13
   .
@@ -389,99 +389,33 @@ Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::12.0-12.4.8
 Installed-Size: 264.1
 
-Package: com.MhmdSAbdlh.avatrix
-Version: 1.5
-Section: Addons
-Depends: mobilesubstrate
+Package: com.MhmdSAbdlh.trix
+Version: 1.2
+Section: Games
+Depends: firmware (>= 9.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.MhmdSAbdlh.avatrix_1.5_iphoneos-arm.deb
-Size: 295848 
-MD5sum: 24b1d69f705fbfda0cebe0d4972c38ab
+Filename: ./debs/com.MhmdSAbdlh.trix_1.2_iphoneos-arm.deb
+Size: 21856254
+MD5sum: fcc84e5809d21f623919c45b835a8ae7
 Description: Replace avatar in Trix
-  Compatible with all Trix versions
+  Compatible with all iOS 9.0 and up
   .
   Change the default avatars like trees and nature with real faces"my friends".
   .
   Enjoy it :).
 Changelog: Fixes & improvements
   Fix after remove
-Name: AvaTrix
-Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg
-Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg
+Name: Trix Card Game
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.trix/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.trix/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.trix/screenshots/img3.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.trix/screenshots/header.jpg
 Author: MhmdSAbdlh <mhmdsabdlh95@gmail.com>
-Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.avatrix
-SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.avatrix/sileo.json
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.trix
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.trix/sileo.json
 Prefer-Native: Yes
-Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/icon.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.trix/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::9.0-13.6
-Installed-Size: 291.5
-
-Package: com.MhmdSAbdlh.avatrix
-Version: 1.2
-Section: Addons
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.MhmdSAbdlh.avatrix_1.2_iphoneos-arm.deb
-Size: 277420
-MD5sum: 8aabd0797afdeb60ae0b82ecc04f6382
-Description: Replace avatar in Trix with MI AMIGOS
-  Compatible with all Trix versions
-  .
-  Change the default avatars like trees and nature with real faces"my friends".
-  .
-  You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
-  .
-  Enjoy it :).
-Changelog: 1.2
-  New in this version:
-  .
-  Add more avatars
-  .
-  Fixes small avatars 
-  .
-  Add iPad support
-Name: AvaTrix
-Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg
-Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg
-Author: MhmdSAbdlh <mhmdsabdlh95@gmail.com>
-Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.avatrix
-Prefer-Native: Yes
-Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/icon.png
-Homepage: https://mhmdsabdlh.github.io/Repo
-Tag: compatible::9.0-13.6
-Installed-Size: 268.4
-
-Package: com.MhmdSAbdlh.avatrix
-Version: 1.0
-Section: Addons
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.MhmdSAbdlh.avatrix_1.0_iphoneos-arm.deb
-Size: 96540
-MD5sum: 3ff2b6eb5ae91981b75bbb2e9d489dac
-Description: Replace avatar in Trix with MI AMIGOS
-  Compatible with all Trix versions
-  .
-  Change the default avatars like trees and nature with real faces"my friends".
-  .
-  You cannot delete it after install, i will fix it soon with another package, for now you have to reinstall it if you want to back to normal avatars.
-  .
-  Enjoy it :).
-Changelog: 1.0
-  New in this version:
-  .
-  Initial release
-Name: AvaTrix
-Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/img3.jpg
-Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/header.jpg
-Author: MhmdSAbdlh <mhmdsabdlh95@gmail.com>
-Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.avatrix
-Prefer-Native: Yes
-Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.avatrix/screenshots/icon.png
-Homepage: https://mhmdsabdlh.github.io/Repo
-Tag: compatible::9.0-13.6
-Installed-Size: 93.2
+Installed-Size: 24000
 
 Package: com.MhmdSAbdlh.milkyway
 Version: 0.1.4beta
