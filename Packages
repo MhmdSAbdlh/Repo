@@ -489,3 +489,21 @@ Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.Mh
 Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::11.0-16.6
 Installed-Size: 1484
+
+Package: com.julioverne.keyswipe
+Version: 1.0.2-3b
+Section: Tweaks
+Maintainer: mhmdsabdlh<mohamadabdlh95@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64e
+Filename: ./debs/com.julioverne.keyswipe11_1.0.2-3b_iphoneos-arm64e.deb
+Size: 13166
+MD5sum: 9aa4f4ab21a0e9e047d08281b06c8a6a
+Description: Swipe up/down to switch keyboard
+Name: KeySwipe (iOS 16)
+Maintainer: Julio
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.julioverne.keyswipe/sileo.json
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.julioverne.keyswipe/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo
+Tag: compatible::11.0-16.6
