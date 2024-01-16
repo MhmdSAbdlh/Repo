@@ -463,13 +463,30 @@ Size: 101364
 MD5sum: 407a24c1d75de3458baab363d07a014e
 Description: Enhance your control center
 Name: BetterCCXI
-Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/img3.jpg
-Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/header.jpg
 Author: akusio <akusio-report@neko2.net>
-Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.milkyway
 SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.atwiiks.betterccxi/sileo.json
 Prefer-Native: Yes
-Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.milkyway/screenshots/icon.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.atwiiks.betterccxi/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::11.0-16.6
-Installed-Size: 100
+Installed-Size: 640
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Section: Tweaks
+Maintainer: mhmdsabdlh<mohamadabdlh95@gmail.com>
+Depends: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm64e
+Filename: ./debs/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64e.deb
+Size: 319678
+MD5sum: 6cdb19cdcad0e64c0321178ae99e112e
+Description: Organize your settings
+Name: Shuffle
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://mhmdsabdlh.github.io/Repo/depictions/?p=com.MhmdSAbdlh.milkyway
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.creaturecoding.shuffle/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo
+Tag: compatible::11.0-16.6
+Installed-Size: 1484
