@@ -1,0 +1,78 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://media.idownloadblog.com/wp-content/uploads/2018/06/BetterCCXI.jpg",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "BetterCCXI",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Redesign Control Center for ios 16 roothide"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://media.idownloadblog.com/wp-content/uploads/2018/06/BetterCCXI.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "Redesign Control Center for ios 16 roothide\r\nyou can make the connectivity, media section 2x2 2x4 or 4x4",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.6.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "01-16-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Atwiiks",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}
