@@ -452,32 +452,32 @@ Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::11.0-12.4.8
 Installed-Size: 208
 
-Package: com.atwiiks.betterccxi
+Package: com.MhmdSAbdlh.betterccxi
 Version: 1.6
 Section: Tweaks
-Maintainer: atwiiks<mohamadabdlh95@gmail.com>
+Maintainer: MhmdSAbdlh<mohamadabdlh95@gmail.com>
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Architecture: iphoneos-arm64e
-Filename: ./debs/com.mhmdsabdlh.betterccxi_1.6.0_iphoneos-arm64e.deb
+Filename: ./debs/com.MhmdSAbdlh.betterccxi_1.6.0_iphoneos-arm64e.deb
 Size: 101364
 MD5sum: 407a24c1d75de3458baab363d07a014e
 Description: Enhance your control center
 Name: BetterCCXI
 Author: akusio <akusio-report@neko2.net>
-SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.atwiiks.mhmdsabdlh/sileo.json
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.MhmdSAbdlh.betterccxi/sileo.json
 Prefer-Native: Yes
-Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.mhmdsabdlh.betterccxi/screenshots/icon.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.betterccxi/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::11.0-16.6
 Installed-Size: 640
 
-Package: com.mhmdsabdlh.shuffle
+Package: com.MhmdSAbdlh.shuffle
 Version: 1.6.2
 Section: Tweaks
 Maintainer: mhmdsabdlh<mohamadabdlh95@gmail.com>
 Depends: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64e
-Filename: ./debs/com.mhmdsabdlh.shuffle_1.6.2_iphoneos-arm64e.deb
+Filename: ./debs/com.MhmdSAbdlh.shuffle_1.6.2_iphoneos-arm64e.deb
 Size: 319678
 MD5sum: 6cdb19cdcad0e64c0321178ae99e112e
 Description: Organize your settings
@@ -485,7 +485,7 @@ Name: Shuffle
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 Prefer-Native: Yes
-Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.mhmdsabdlh.shuffle/screenshots/icon.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.shuffle/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::11.0-16.6
 Installed-Size: 1484
