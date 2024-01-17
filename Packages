@@ -507,3 +507,39 @@ Prefer-Native: Yes
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.julioverne.keyswipe/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io/Repo
 Tag: compatible::11.0-16.6
+
+Package: Chhotabanner
+Version: 1.0
+Section: Tweaks
+Maintainer: mhmdsabdlh<mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Filename: ./debs/Chhotabanner.deb
+Size: 14924
+MD5sum: eef50c07901aeef830626ba98216b19a
+Description:  minimal notifications while gaming (in Landscape Orientation) !!
+Name: Chhotabanner
+Maintainer: DrakeDrac
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/Chhotabanner/sileo.json
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/Chhotabanner/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo
+Tag: compatible::11.0-16.6
+
+Package: com.flame.removeconfidential
+Version: 1.0
+Section: Tweaks
+Maintainer: mhmdsabdlh<mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Filename: ./debs/com.flame.removeconfidential_1.0.2_iphoneos-arm64e.deb
+Size: 4346
+MD5sum: 4ce72fa10e5b568b2b802992fbd91908
+Description:  Removes the "Confidential & Proprietary" text from the lockscreen.
+Name: Chhotabanner
+Maintainer: DrakeDrac
+SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.flame.removeconfidential/sileo.json
+Prefer-Native: Yes
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.flame.removeconfidential/screenshots/icon.png
+Homepage: https://mhmdsabdlh.github.io/Repo
+Tag: compatible::11.0-16.6

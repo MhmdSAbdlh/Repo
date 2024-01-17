@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://iphonetweak.fr/images/_032020/shuffle-banner.jpg",
+    "headerImage": "https://media.idownloadblog.com/wp-content/uploads/2021/03/54CEBE54-1211-4FCD-BCAE-D7E8639CEEAB.jpeg",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
@@ -9,13 +9,13 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "BetterCCXI",
+                    "title": "Chhotabanner",
                     "useBoldText": true
                 },
                 {
                     "useSpacing": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Redesign Control Center for ios 16 roothide"
+                    "markdown": " minimal notifications while gaming (in Landscape Orientation) !!"
                 },
                 {
                     "spacing": 8,
@@ -25,7 +25,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://iphonetweak.fr/images/_032020/shuffle-banner.jpg"
+                            "url": "https://private-user-images.githubusercontent.com/50480704/295650091-c56c086c-e32f-4e32-963a-5129478f7208.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NTIyMTgsIm5iZiI6MTcwNTQ1MTkxOCwicGF0aCI6Ii81MDQ4MDcwNC8yOTU2NTAwOTEtYzU2YzA4NmMtZTMyZi00ZTMyLTk2M2EtNTEyOTQ3OGY3MjA4LlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDAwMzgzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1YTc4NzkyYzYwYjVmYjZhZDc4NTYxOTE0ZGQzYTY5ZjUyZWQyYmQ1N2ZhODczMDM2MTQ2MTIyYmQ5ZjQ5ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ieY7h6RRbbjO4pCI7KG8f_AJiUUkY6HJFxG7-Lf78Kg"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -33,7 +33,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Redesign Control Center for ios 16 roothide\r\nyou can make the connectivity, media section 2x2 2x4 or 4x4",
+                    "markdown": " minimal notifications while gaming (in Landscape Orientation) !!",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -43,7 +43,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.6.0",
+                    "text": "1.0",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -62,7 +62,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Atwiiks",
+                    "text": "DrakeDrac",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
                 },
