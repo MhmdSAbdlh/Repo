@@ -536,7 +536,7 @@ Filename: ./debs/com.flame.removeconfidential_1.0.2_iphoneos-arm64e.deb
 Size: 4346
 MD5sum: 4ce72fa10e5b568b2b802992fbd91908
 Description:  Removes the "Confidential & Proprietary" text from the lockscreen.
-Name: Chhotabanner
+Name: RemoveConfidential
 Maintainer: DrakeDrac
 SileoDepiction: https://mhmdsabdlh.github.io/Repo/depictions/com.flame.removeconfidential/sileo.json
 Prefer-Native: Yes
